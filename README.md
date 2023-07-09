@@ -2,10 +2,14 @@
 
 
 ## About Me
+
 <br>
+
 Hello! I'm ravindu dilshan, a passionate developer born in 2002. With a love for coding since 2015, I specialize in Python and Node.js, crafting innovative solutions. I'm an avid learner, always seeking opportunities to expand my skill set. From web applications to data analysis and machine learning, I enjoy bringing ideas to life through clean, efficient, and maintainable code. Collaboration, communication, and teamwork are important to me. Connect with me on Twitter and LinkedIn for collaborations and discussions. Let's build something amazing together!
+
 <br>
 <br>
+
 [![GitHub followers](https://img.shields.io/github/followers/ravindudil5han?label=Follow&style=social)](https://github.com/ravindudil5han)
 
 
