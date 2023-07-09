@@ -10,10 +10,5 @@ Hello! I'm ravindu dilshan, a passionate developer born in 2002. With a love for
 <br>
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/ravindudil5han?label=Follow&style=social)](https://github.com/ravindudil5han)
-
-
-Feel free to explore my GitHub repositories and connect with me on Twitter. I'm always open to collaborations and discussions. Let's build something amazing together!
-
 ## Contact Me
 - Email: B.ravindudilshan@gmail.com
