@@ -27,3 +27,25 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindudil5han&" alt="ravindudil5han" /></p>
 
+<script>
+  // Get the current date
+var currentDate = new Date();
+
+// Get the year, month, and day of the current date
+var currentYear = currentDate.getFullYear();
+
+
+// Define your birthdate
+var birthYear = 2002;
+
+
+// Calculate the age
+var age = currentYear - birthYear;
+
+
+// Output the age
+console.log("Your age is: " + age);
+
+</script>
+
+
